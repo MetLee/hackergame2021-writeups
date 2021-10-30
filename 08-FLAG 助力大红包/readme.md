@@ -34,6 +34,4 @@ neta并夕夕。
 
  每次间隔两秒，不然会出错。
 
-Python中的 `requests` 库好像会把自己的ip追加到 `x-forwarded-for` 字段中去，导致报错。
-
 回到网页中提取得到flag。
