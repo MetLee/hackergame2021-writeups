@@ -30,7 +30,7 @@ neta华强卖瓜。
 
 ![2](img/2.png)
 
-于是考虑上溢出。当总重超过 ${2}^{63}$ 时，会变为负数。
+于是考虑上溢出。当总重超过 <a href="https://www.codecogs.com/eqnedit.php?latex=2^{63}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^{63}" title="2^{63}" /></a> 时，会变为负数。
 
 ![3](img/3.png)
 
